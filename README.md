@@ -1,6 +1,6 @@
 # Hey there! I'm Gabriel Cruz
 
-💻 Backend developet and Data Engineer at SIAPESQ
+💻 Backend developer and Data Engineer at SIAPESQ
 
 🎓 Computer Engineering student at Federal University of Santa Maria (UFSM)
 
